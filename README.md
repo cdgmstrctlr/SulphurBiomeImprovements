@@ -87,6 +87,6 @@ Attempts to enable sulfur cube spawning in surface sulfur biomes were unsuccessf
 
 ## Compatibility
 
-- **Safe to add to existing worlds**  
+- **Safe to add to existing worlds**  (Requires Chaos Cubed)
 - **Safe to remove** (restores original generation for new chunks)  
 - No resource pack required
