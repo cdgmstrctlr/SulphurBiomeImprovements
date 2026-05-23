@@ -20,6 +20,12 @@ This add‑on improves several aspects of the new sulfur biome in Minecraft Bedr
 
 ---
 
+# Installation
+
+Download the add-on from the releases section of this repo on github, right-click the add-on and install to Minecraft Preview.
+
+---
+
 # Technical Details
 
 ## Sulfur Pool Potent Sulfur
