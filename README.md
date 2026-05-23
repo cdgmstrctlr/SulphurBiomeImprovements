@@ -2,7 +2,7 @@
 
 # Sulfur Biome Enhancements (Minecraft Bedrock Add‑On)
 
-This add‑on improves several aspects of the new sulfur biome in Minecraft Bedrock Edition, enhancing both visuals and gameplay while maintaining full compatibility with existing worlds.
+This add‑on improves several aspects of the new sulfur biome in Minecraft Bedrock Edition, enhancing both visuals and gameplay while maintaining full compatibility with existing worlds. Includes the special flag that allows it to be used in survival with achievements enabled.
 
 ## Features
 
