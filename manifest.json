@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Sulphur Caves and Biome Improvements",
+		"description": "Increases odds of ideal potent sulfur placement in pools, adds numerous glow lichen back to the caves, adds sulfur springs to surface sulfur biomes.",
+		"uuid": "65cfa504-03e5-46fb-81f7-109b5af5a14a",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 26, 30 ]
+	},
+	"metadata": {
+		"authors": [
+			"cdgmstrctlr"
+		],
+		"product_type": "addon"
+	},
+	"modules": [
+		{
+			"description": "Sulphur biomes module",
+			"version": [1, 0, 0],
+			"uuid": "73530f5c-b436-4647-9ab9-b029c93eb056",
+			"type": "data"
+		}
+	]
+}

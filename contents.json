@@ -1,0 +1,50 @@
+{
+	"content": [
+		{
+			"path": "feature_rules/overworld_underground_sulfur_glow_lichen_feature.json"
+		},
+		{
+			"path": "feature_rules/sulfur_caves_surface_sulfur_pool_with_potent_sulfur_feature_rules.json"
+		},
+		{
+			"path": "feature_rules/sulfur_surface_springs_feature.json"
+		},
+		{
+			"path": "features/debug_anchor_point.json"
+		},
+		{
+			"path": "features/find_air_column.json"
+		},
+		{
+			"path": "features/potent_sulfur_feature.json"
+		},
+		{
+			"path": "features/potent_sulfur_search_embedpos.json"
+		},
+		{
+			"path": "features/potent_sulfur_search_feature.json"
+		},
+		{
+			"path": "features/ps_column_sequence.json"
+		},
+		{
+			"path": "features/ps_column_top.json"
+		},
+		{
+			"path": "features/sulfur_pool_flat_filter.json"
+		},
+		{
+			"path": "features/sulfur_pool_with_potent_sulfur_snap_to_surface_feature.json"
+		},
+		{
+			"path": "features/sulfur_spring_tuff_feature.json"
+		},
+		{
+			"path": "manifest.json"
+		},
+		{
+			"path": "pack_icon.png"
+		}
+	],
+	"version": 1
+}

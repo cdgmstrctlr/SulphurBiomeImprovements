@@ -1,0 +1,14 @@
+{
+	"format_version": "1.26.30",
+	"minecraft:height_difference_filter_feature": {
+		"description": {
+			"identifier": "cmc:sulfur_pool_flat_filter"
+		},
+		"places_feature": "minecraft:sulfur_pool_with_potent_sulfur",
+		"min_required_upward_height_diff": 0,
+		"min_required_downward_height_diff": 0,
+		"max_allowed_upward_height_diff": 1,
+		"max_allowed_downward_height_diff": 1,
+		"search_radius": 4
+	}
+}
