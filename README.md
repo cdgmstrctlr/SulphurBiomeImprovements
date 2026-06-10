@@ -87,7 +87,7 @@ To compensate, this add‑on introduces a new feature rule that:
 
 ## Surface Sulfur Cubes
 
-Attempts to enable sulfur cube spawning in surface sulfur biomes were unsuccessful. Overriding their spawn rule and entity does not appear to activate the changes. This may require an in-house fix.
+Bedrock Preview 26.40.22 fixed the missing surface Sulfur Cubes so everything that should be in that biome is now present!
 
 ---
 
