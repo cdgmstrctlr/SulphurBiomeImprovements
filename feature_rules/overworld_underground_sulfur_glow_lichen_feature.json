@@ -3,7 +3,7 @@
 	"minecraft:feature_rules": {
 		"description": {
 			"identifier": "cmc:overworld_underground_sulfur_glow_lichen_feature",
-			"places_feature": "minecraft:glow_lichen_cluster_feature"
+			"places_feature": "minecraft:glow_lichen_feature"
 		},
 		"conditions": {
 			"placement_pass": "after_underground_pass",
