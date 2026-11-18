@@ -2,7 +2,7 @@
 
 # Sulfur Biome Enhancements (Minecraft Bedrock Add‑On)
 
-This add‑on improves several aspects of the new sulfur biome in Minecraft Bedrock Edition, enhancing both visuals and gameplay while maintaining full compatibility with existing worlds. Includes the special flag that allows it to be used in survival with achievements enabled.
+This add‑on improves several aspects of the new sulfur biome in Minecraft Bedrock Edition, enhancing both visuals and gameplay while maintaining full compatibility with existing worlds. Includes the special flag that allows it to be used in survival with achievements enabled. (Note: There were some versions of Bedrock which no longer honored this flag, however, that functionality has been restored by Mojang so this add-on will again allow Achievements to be earned in worlds where it is used.)
 
 ## Features
 
@@ -93,6 +93,6 @@ Bedrock Preview 26.40.22 fixed the missing surface Sulfur Cubes so everything th
 
 ## Compatibility
 
-- **Safe to add to existing worlds**  (Requires Chaos Cubed)
+- **Safe to add to existing worlds**  (Requires Chaos Cubed or later)
 - **Safe to remove** (restores original generation for new chunks)  
 - No resource pack required
